@@ -27,7 +27,7 @@ This can be customized to not only alphabets but any symbol.
 
 The CNN model achieves a 99% accuracy on the test set with a classification loss of 0.024.
 
-<a href="https://github.com/sudip0789/hand-sign-language-recognition/blob/main/signRecog.mp4">
+<a href="https://github.com/sudip0789/hand-sign-language-recognition/blob/main/demo/signRecog.mp4">
   <img src="https://github.com/sudip0789/hand-sign-language-recognition/blob/main/demo/signrecog_img.png" alt="Live Prediction Demo" width="400">
 </a>
 
